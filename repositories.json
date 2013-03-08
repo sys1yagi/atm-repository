@@ -1,0 +1,9 @@
+{
+	"schema_version": "1.0",
+	"repositories": [
+		"https://github.com/sys1yagi/atm_sample",
+	],
+	"package_name_map": {
+		"atm_sample": "ATM Sample Templates",
+	}
+}
