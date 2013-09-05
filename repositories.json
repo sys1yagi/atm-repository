@@ -1,9 +1,11 @@
 {
 	"schema_version": "1.0",
 	"repositories": [
-		{name:"atm_sample", url:"https://github.com/sys1yagi/atm_sample"}
+		{name:"atm_sample", url:"https://github.com/sys1yagi/atm_sample"},
+		{name:"ListViewTemplate", url:"https://github.com/sys1yagi/ListViewTemplate.git"}
 	],
 	"package_name_map": {
 		"atm_sample": "ATM Sample Templates",
+		"ListViewTemplate": "Simple Activity and ListView"
 	}
 }
